@@ -3,7 +3,7 @@ const btnDescargar = document.querySelector(".botonDescarga");
 console.log(btnDescargar);
 
 btnDescargar.addEventListener('click', () => {
-    alert("Lo sentimos, la pelicula aún no esta disponible, pero !esperala muy pronto amigo!");
+    alert("Lo sentimos, la pelicula aún no esta disponible, pero ¡esperala muy pronto amigo!");
 });
 
 
